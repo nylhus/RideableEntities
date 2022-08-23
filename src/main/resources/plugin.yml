@@ -1,0 +1,5 @@
+name: RideableEntities
+version: '${project.version}'
+main: net.nylhus.rideableentities.RideableEntities
+api-version: 1.19
+authors: [ nylhus ]
